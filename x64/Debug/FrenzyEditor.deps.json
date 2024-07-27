@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FrenzyEditor/1.0.0": {
+        "runtime": {
+          "FrenzyEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrenzyEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
