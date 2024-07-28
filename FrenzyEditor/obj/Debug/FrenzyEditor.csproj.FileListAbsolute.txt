@@ -33,3 +33,16 @@ C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\refint\FrenzyEd
 C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\FrenzyEditor.pdb
 C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\FrenzyEditor.genruntimeconfig.cache
 C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\ref\FrenzyEditor.dll
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\FrenzyEditor.sourcelink.json
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GameProject\ProjectBrowserDialog.g.cs
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GameProject\ProjectBrowserDialog.baml
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GameProject\NewProjectView.g.cs
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GameProject\OpenProjectView.g.cs
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GameProject\NewProjectView.baml
+C:\Users\User\Desktop\repos\frenzy-engine\FrenzyEditor\obj\Debug\GameProject\OpenProjectView.baml
+C:\Users\User\Desktop\repos\frenzy-engine\x64\Debug\FrenzyEditor.exe
+C:\Users\User\Desktop\repos\frenzy-engine\x64\Debug\FrenzyEditor.deps.json
+C:\Users\User\Desktop\repos\frenzy-engine\x64\Debug\FrenzyEditor.runtimeconfig.json
+C:\Users\User\Desktop\repos\frenzy-engine\x64\Debug\FrenzyEditor.dll
+C:\Users\User\Desktop\repos\frenzy-engine\x64\Debug\FrenzyEditor.pdb

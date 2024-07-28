@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\gameproject\\newprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\gameproject\\newprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\gameproject\\newprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\gameproject\\newproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\gameproject\\newproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\gameproject\\projectbrowserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\gameproject\\projectbrowserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\frenzyeditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\frenzyeditor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\utilities\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\utilities\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\gameproject\\openprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\gameproject\\projectbrowserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\gameproject\\projectbrowserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|c:\\users\\user\\desktop\\repos\\frenzy-engine\\frenzyeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{776FAD59-7A30-4F6E-BA07-31A75A3BA01F}|FrenzyEditor\\FrenzyEditor.csproj|solutionrelative:frenzyeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +58,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\Utilities\\Serializer.cs",
+              "RelativeDocumentMoniker": "FrenzyEditor\\Utilities\\Serializer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\Utilities\\Serializer.cs",
+              "RelativeToolTip": "FrenzyEditor\\Utilities\\Serializer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:56:50.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewProject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\NewProject.cs",
+              "RelativeDocumentMoniker": "FrenzyEditor\\GameProject\\NewProject.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\NewProject.cs",
+              "RelativeToolTip": "FrenzyEditor\\GameProject\\NewProject.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwEwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:31:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewProjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\NewProjectView.xaml.cs",
+              "RelativeDocumentMoniker": "FrenzyEditor\\GameProject\\NewProjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\NewProjectView.xaml.cs",
+              "RelativeToolTip": "FrenzyEditor\\GameProject\\NewProjectView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:12:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpenProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\OpenProjectView.xaml",
+              "RelativeDocumentMoniker": "FrenzyEditor\\GameProject\\OpenProjectView.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\OpenProjectView.xaml",
+              "RelativeToolTip": "FrenzyEditor\\GameProject\\OpenProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T21:08:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\NewProjectView.xaml",
+              "RelativeDocumentMoniker": "FrenzyEditor\\GameProject\\NewProjectView.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\NewProjectView.xaml",
+              "RelativeToolTip": "FrenzyEditor\\GameProject\\NewProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T21:08:04.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrenzyEditor.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\FrenzyEditor.csproj",
+              "RelativeDocumentMoniker": "FrenzyEditor\\FrenzyEditor.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\FrenzyEditor.csproj",
+              "RelativeToolTip": "FrenzyEditor\\FrenzyEditor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T20:39:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\App.xaml",
+              "RelativeDocumentMoniker": "FrenzyEditor\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\App.xaml",
+              "RelativeToolTip": "FrenzyEditor\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T20:39:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectBrowserDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "RelativeDocumentMoniker": "FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "RelativeToolTip": "FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:37:32.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FrenzyEditor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FrenzyEditor\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA3wCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:28:02.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\Common\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "FrenzyEditor\\Common\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\Common\\ViewModelBase.cs",
+              "RelativeToolTip": "FrenzyEditor\\Common\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:36:47.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FrenzyEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\MainWindow.xaml",
+              "RelativeToolTip": "FrenzyEditor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T19:52:02.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectBrowserDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml",
+              "RelativeDocumentMoniker": "FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\repos\\frenzy-engine\\FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml",
+              "RelativeToolTip": "FrenzyEditor\\GameProject\\ProjectBrowserDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T19:40:29.562Z"
             }
           ]
         }

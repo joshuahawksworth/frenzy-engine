@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using FrenzyEditor.GameProject;
+using System.Security.Cryptography;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,6 +21,25 @@ namespace FrenzyEditor
         public MainWindow()
         {
             InitializeComponent();
+            Loaded += OnMainWindowLoaded;
+        }
+
+        private void OnMainWindowLoaded(object sender, RoutedEventArgs e){
+            Loaded -= OnMainWindowLoaded;
+            OpenProjectBrowserDialog();
+        }
+
+        private void OpenProjectBrowserDialog()
+        {
+            var projectBrowser = new ProjectBrowserDialog();
+            if (projectBrowser.ShowDialog() == false)
+            {
+                Application.Current.Shutdown();
+            }
+             else 
+            { 
+            
+            }
         }
     }
 }

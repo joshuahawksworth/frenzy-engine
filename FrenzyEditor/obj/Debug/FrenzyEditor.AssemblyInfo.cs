@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrenzyEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e424ab2e02774c6f4d1ea0134661f42bbc2c90e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrenzyEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrenzyEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
